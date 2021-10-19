@@ -27,6 +27,9 @@ const Home: NextPage = () => {
           <li>
             <a href="/button/material-ui-button">material-ui-button</a>
           </li>
+          <li>
+            <a href="/button/baseweb-button">baseweb-button</a>
+          </li>
         </ul>
       </main>
     </div>
