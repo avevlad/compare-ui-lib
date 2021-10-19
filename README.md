@@ -2,6 +2,7 @@
 
 
 ```bash
+Page                              Size     First Load JS
 ├ λ /button/baseweb-button        18.5 kB        85.5 kB
 ├ λ /button/blueprintjs4-button   319 kB          386 kB
 ├ λ /button/mantine-button        7.33 kB        79.9 kB
