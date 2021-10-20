@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@blueprintjs/core": "^4.0.0-beta.4",
+    "@chakra-ui/react": "^1.6.10",
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
     "@mantine/core": "^3.0.5",
@@ -19,6 +20,7 @@
     "@types/styletron-react": "^5.0.3",
     "@types/styletron-standard": "^2.0.2",
     "baseui": "^10.5.0",
+    "framer-motion": "^4.1.17",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
