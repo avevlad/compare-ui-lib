@@ -33,6 +33,9 @@ const Home: NextPage = () => {
           <li>
             <a href="/button/chakra-ui-button">chakra-ui-button</a>
           </li>
+          <li>
+            <a href="/button/antd-button">antd-button</a>
+          </li>
         </ul>
       </main>
     </div>
